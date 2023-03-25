@@ -1,7 +1,18 @@
 
 
-h1 {color: brown; justify-content: center;}
-body {background-color:  #7DCEA0;}
+@import url('https://fonts.googleapis.com/css2?family=Slackey&family=Varela+Round&display=swap');
+h1 { text-align: center; border-style: solid; border-color:aliceblue; font-family: 'Slackey', cursive;}
 
+body {background-color:skyblue; font-family: 'Varela Round', sans-serif; font-size: medium;}
+h2   {  border-style: groove; border-color: black;  width: 30%; background-color: aliceblue;
+text-align: center;}
 
-iframe {width: 400px;  height: 400px; align-content: end;}
+iframe {width: 400px;  height: 400px;}
+#contacto {margin-left: 350px; justify-content: center;    text-align: center; border: solid; border-color: black;
+     background-image: url("https://p4.wallpaperbetter.com/wallpaper/52/536/863/river-bed-river-mouth-river-riverside-river-delta-hd-wallpaper-preview.jpg");
+      width: 700px; height:200px ; margin-top: 0px auto; padding-top: 30px; padding-bottom: 30px;
+}
+#titulo2 { margin-left: 500px; text-align: center;}
+ #titulo3 { margin-left: 500px; text-align: center;}
+ #mapa {margin-left: 500px;}
+ #texto {font-weight: bold;}
